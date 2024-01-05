@@ -1,3 +1,7 @@
+package gui;
+
+import gui.utility.ButtonPane;
+
 import javax.swing.*;
 import java.awt.*;
 

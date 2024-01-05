@@ -1,3 +1,5 @@
+package gui.utility;
+
 import javax.swing.*;
 import java.awt.*;
 
